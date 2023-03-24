@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi there 👋, my name is Niranjan
 
 🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJS and MongoDB<br>💬 Ask me about Web Development<br>
 
