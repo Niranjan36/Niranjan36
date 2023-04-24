@@ -2,7 +2,7 @@
 Hi there 👋, my name is Niranjan <br>
 I am a Frontend Developer with a passion for creating innovative and user-friendly web applications. I have learnt various programming languages such as JavaScript, Python, as well as experience with popular framework such as ReactJs and currently learning backend with Nodejs and MongoDB.
 
-🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJS and MongoDB<br>💬 Ask me about Web Development<br>📫 How to reach me: developer.niranajn5@gmail.com
+🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJS and MongoDB<br>💬 Ask me about Backend Development<br>📫 How to reach me: developer.niranajn5@gmail.com
 
 
 ## 🌐 Socials:
