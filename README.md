@@ -2,7 +2,7 @@
 Hi there 👋, my name is Niranjan <br>
 I am Backend Developer. Skilled in JavaScript, NodeJS, ExpressJS, MySQL, and MongoDB. 
 
-🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning NodeJS and MongoDB<br>💬 Ask me about Backend Development<br>📫 How to reach me: developer.niranajn5@gmail.com
+🔭 I’m currently working on MERN Stack<br>🌱 I’m currently learning MongoDB<br>💬 Ask me about Backend Development<br>📫 How to reach me: developer.niranajn5@gmail.com
 
 
 ## 🌐 Socials:
