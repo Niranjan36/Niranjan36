@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi there 👋, My name is Niranjan Kumar <br>
+Hi there 👋, My name is Niranjan Kumar. <br>
 I am Full Stack Developer. 
 
-🔭 I’m currently working on MERN Stack<br>📫 How to reach me: developer.niranajn5@gmail.com
+🔭 I’m currently working on MERN Stack.<br>📫 How to reach me: developer.niranajn5@gmail.com
 
 
 ## 🌐 Socials:
