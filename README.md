@@ -1,8 +1,9 @@
  # 💫 About Me:
 Hi there 👋, My name is Niranjan Kumar. <br>
-I'm a Java Backend Developer.
+I'm a Software Developer.
+Here is my portfolio - https://niranjan-portfolio-app.netlify.app/
 
-🔭 I’m currently working on Spring Boot.<br>📫 How to reach me: developer.niranjan5@gmail.com
+🔭 I’m currently learning Spring Boot.<br>📫 How to reach me: developer.niranjan5@gmail.com
 
                  Thought: "Just do it!"
 
