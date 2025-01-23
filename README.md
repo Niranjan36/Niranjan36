@@ -1,9 +1,9 @@
  # 💫 About Me:
 Hi there 👋, My name is Niranjan Kumar. <br>
-I'm a Software Developer. <br>
+An Aspiring Software Developer. <br>
 Here is my portfolio - https://portfolio-niranjan-app.netlify.app/
 
-🔭 I’m currently learning Spring Boot.<br>📫 How to reach me: developer.niranjan5@gmail.com
+🔭 I’m currently learning Data Structure.<br>📫 How to reach me: developer.niranjan5@gmail.com
 
                  Thought: "Just do it!"
 
