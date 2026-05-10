@@ -1,6 +1,6 @@
  # 💫 About Me:
 Hi there 👋, My name is Niranjan Kumar. <br>
-An Aspiring Software Developer. <br>
+Software Developer. <br>
 Here is my portfolio - https://portfolio-niranjan-app.netlify.app/
 
 🔭 I’m currently learning Data Structure.<br>📫 How to reach me: developer.niranjan5@gmail.com
