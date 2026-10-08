@@ -1,8 +1,6 @@
  # 💫 About Me:
 Hi there 👋, My name is Niranjan Kumar. <br>
-Software Developer. <br>
-
-I’m currently learning Data Structure.<br>
+Software Developer.
 
                  Thought: "Just do it!"
 
